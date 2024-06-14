@@ -1,5 +1,5 @@
 import { useEffect, useReducer } from "react";
-import { todoReducer } from "../08-useReducer/todoReducer";
+import { todoReducer } from "./todoReducer";
 
 // Estado inicial de la Aplicacion sin algun storage definido.
 // const initialState = [
